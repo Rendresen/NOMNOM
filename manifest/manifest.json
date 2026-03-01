@@ -94,7 +94,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 571
+    "downloadCount": 572
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 180
+    "downloadCount": 181
   },
   {
     "id": "galaxy2_voice",
@@ -1220,7 +1220,7 @@
         ]
       }
     ],
-    "downloadCount": 3521
+    "downloadCount": 3525
   },
   {
     "id": "no-autopilot-mod",
@@ -1430,7 +1430,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2476
+    "downloadCount": 2478
   },
   {
     "id": "NOBlackBox",
@@ -2118,7 +2118,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 348
+    "downloadCount": 349
   },
   {
     "id": "WeatherController",

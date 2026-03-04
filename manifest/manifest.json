@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 279
+    "downloadCount": 280
   },
   {
     "id": "AircraftWaypoints",
@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 265
+    "downloadCount": 269
   },
   {
     "id": "galaxy2_voice",
@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 680
+    "downloadCount": 682
   },
   {
     "id": "LiveryManager",
@@ -926,7 +926,7 @@
         ]
       }
     ],
-    "downloadCount": 196
+    "downloadCount": 197
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1120,7 +1120,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 87
+    "downloadCount": 88
   },
   {
     "id": "NO_Tactitools",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3788
+    "downloadCount": 3792
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2657
+    "downloadCount": 2661
   },
   {
     "id": "NOBlackBox",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1070
+    "downloadCount": 1073
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2016,7 +2016,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 168
+    "downloadCount": 169
   },
   {
     "id": "RuntimeUnityEditor",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116684
+    "downloadCount": 116686
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 417
+    "downloadCount": 419
   },
   {
     "id": "WeatherController",
@@ -2300,6 +2300,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 300
+    "downloadCount": 301
   }
 ]

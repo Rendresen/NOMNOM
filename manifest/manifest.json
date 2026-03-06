@@ -167,7 +167,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 328
+    "downloadCount": 329
   },
   {
     "id": "galaxy2_voice",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3904
+    "downloadCount": 3906
   },
   {
     "id": "no-autopilot-mod",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116750
+    "downloadCount": 116755
   },
   {
     "id": "skyeye_voice",
@@ -2217,7 +2217,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 63
+    "downloadCount": 65
   },
   {
     "id": "WSOYappinator",

@@ -335,7 +335,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 715
+    "downloadCount": 716
   },
   {
     "id": "LiveryManager",
@@ -1120,7 +1120,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 110
+    "downloadCount": 111
   },
   {
     "id": "NO_Tactitools",
@@ -1258,7 +1258,7 @@
         ]
       }
     ],
-    "downloadCount": 3918
+    "downloadCount": 3921
   },
   {
     "id": "no-autopilot-mod",
@@ -1498,7 +1498,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2779
+    "downloadCount": 2780
   },
   {
     "id": "NOBlackBox",
@@ -1552,7 +1552,7 @@
         ]
       }
     ],
-    "downloadCount": 2017
+    "downloadCount": 2019
   },
   {
     "id": "NOCursorOverride",
@@ -1677,7 +1677,7 @@
         ]
       }
     ],
-    "downloadCount": 489
+    "downloadCount": 491
   },
   {
     "id": "NOLiveryPlus",
@@ -1866,7 +1866,7 @@
         ]
       }
     ],
-    "downloadCount": 1127
+    "downloadCount": 1128
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2049,7 +2049,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116762
+    "downloadCount": 116763
   },
   {
     "id": "skyeye_voice",
@@ -2186,7 +2186,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 443
+    "downloadCount": 446
   },
   {
     "id": "WeatherController",
@@ -2250,7 +2250,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 786
+    "downloadCount": 788
   },
   {
     "id": "YawOnMouse",

@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 336
+    "downloadCount": 337
   },
   {
     "id": "AircraftWaypoints",
@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 658
+    "downloadCount": 659
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 390
+    "downloadCount": 391
   },
   {
     "id": "galaxy2_voice",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4035
+    "downloadCount": 4039
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2873
+    "downloadCount": 2876
   },
   {
     "id": "NOBlackBox",
@@ -1593,7 +1593,7 @@
         ]
       }
     ],
-    "downloadCount": 2062
+    "downloadCount": 2063
   },
   {
     "id": "NOCursorOverride",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1164
+    "downloadCount": 1165
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 77
+    "downloadCount": 79
   },
   {
     "id": "RepairProgress",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 488
+    "downloadCount": 491
   },
   {
     "id": "WeatherController",
@@ -2373,7 +2373,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 807
+    "downloadCount": 808
   },
   {
     "id": "YawOnMouse",

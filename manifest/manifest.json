@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 424
+    "downloadCount": 425
   },
   {
     "id": "galaxy2_voice",
@@ -1161,7 +1161,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 131
+    "downloadCount": 133
   },
   {
     "id": "NO_Tactitools",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116876
+    "downloadCount": 116877
   },
   {
     "id": "skyeye_voice",
@@ -2373,7 +2373,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 815
+    "downloadCount": 816
   },
   {
     "id": "YawOnMouse",

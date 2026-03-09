@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 662
+    "downloadCount": 663
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 408
+    "downloadCount": 409
   },
   {
     "id": "galaxy2_voice",
@@ -967,7 +967,7 @@
         ]
       }
     ],
-    "downloadCount": 208
+    "downloadCount": 209
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4066
+    "downloadCount": 4069
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2902
+    "downloadCount": 2903
   },
   {
     "id": "NOBlackBox",
@@ -1718,7 +1718,7 @@
         ]
       }
     ],
-    "downloadCount": 518
+    "downloadCount": 520
   },
   {
     "id": "NOLiveryPlus",
@@ -1907,7 +1907,7 @@
         ]
       }
     ],
-    "downloadCount": 1176
+    "downloadCount": 1177
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1958,7 +1958,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 493
+    "downloadCount": 494
   },
   {
     "id": "NuclearVOIP",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116856
+    "downloadCount": 116861
   },
   {
     "id": "skyeye_voice",
@@ -2309,7 +2309,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 507
+    "downloadCount": 508
   },
   {
     "id": "WeatherController",
@@ -2340,7 +2340,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 88
+    "downloadCount": 89
   },
   {
     "id": "WSOYappinator",
@@ -2423,6 +2423,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 310
+    "downloadCount": 311
   }
 ]

@@ -62,7 +62,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 131
   },
   {
     "id": "AtomicFramework",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 757
+    "downloadCount": 758
   },
   {
     "id": "LiveryManager",
@@ -1299,7 +1299,7 @@
         ]
       }
     ],
-    "downloadCount": 4071
+    "downloadCount": 4072
   },
   {
     "id": "no-autopilot-mod",
@@ -1539,7 +1539,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2905
+    "downloadCount": 2906
   },
   {
     "id": "NOBlackBox",
@@ -1593,7 +1593,7 @@
         ]
       }
     ],
-    "downloadCount": 2069
+    "downloadCount": 2070
   },
   {
     "id": "NOCursorOverride",
@@ -1625,7 +1625,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 221
+    "downloadCount": 222
   },
   {
     "id": "NOFFB",
@@ -2108,7 +2108,7 @@
         ]
       }
     ],
-    "downloadCount": 107
+    "downloadCount": 111
   },
   {
     "id": "RepairProgress",
@@ -2172,7 +2172,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116866
+    "downloadCount": 116873
   },
   {
     "id": "skyeye_voice",

@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 826
+    "downloadCount": 827
   },
   {
     "id": "LiveryManager",
@@ -1596,7 +1596,7 @@
         ]
       }
     ],
-    "downloadCount": 4269
+    "downloadCount": 4270
   },
   {
     "id": "no-autopilot-mod",
@@ -2405,7 +2405,7 @@
         ]
       }
     ],
-    "downloadCount": 257
+    "downloadCount": 258
   },
   {
     "id": "RepairProgress",
@@ -2436,7 +2436,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 291
+    "downloadCount": 292
   },
   {
     "id": "RuntimeUnityEditor",

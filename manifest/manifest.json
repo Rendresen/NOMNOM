@@ -208,7 +208,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 594
+    "downloadCount": 595
   },
   {
     "id": "galaxy2_voice",
@@ -376,7 +376,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 863
+    "downloadCount": 864
   },
   {
     "id": "LiveryManager",
@@ -1863,7 +1863,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 195
+    "downloadCount": 196
   },
   {
     "id": "NO_Tactitools",
@@ -2241,7 +2241,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3187
+    "downloadCount": 3188
   },
   {
     "id": "NOBlackBox",
@@ -2295,7 +2295,7 @@
         ]
       }
     ],
-    "downloadCount": 2146
+    "downloadCount": 2147
   },
   {
     "id": "NOCursorOverride",
@@ -2810,7 +2810,7 @@
         ]
       }
     ],
-    "downloadCount": 369
+    "downloadCount": 370
   },
   {
     "id": "RepairProgress",

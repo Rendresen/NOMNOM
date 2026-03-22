@@ -135,7 +135,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 755
+    "downloadCount": 756
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -210,7 +210,7 @@
         }
       }
     ],
-    "downloadCount": 133
+    "downloadCount": 144
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -255,7 +255,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 133
+    "downloadCount": 144
   },
   {
     "id": "FrontlineMap",
@@ -295,7 +295,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 611
+    "downloadCount": 612
   },
   {
     "id": "galaxy2_voice",
@@ -463,7 +463,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 874
+    "downloadCount": 875
   },
   {
     "id": "LiveryManager",
@@ -2103,7 +2103,7 @@
         ]
       }
     ],
-    "downloadCount": 4449
+    "downloadCount": 4450
   },
   {
     "id": "no-autopilot-mod",
@@ -2343,7 +2343,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3231
+    "downloadCount": 3232
   },
   {
     "id": "NOBlackBox",
@@ -2522,7 +2522,7 @@
         ]
       }
     ],
-    "downloadCount": 590
+    "downloadCount": 591
   },
   {
     "id": "NOLiveryPlus",
@@ -2711,7 +2711,7 @@
         ]
       }
     ],
-    "downloadCount": 1340
+    "downloadCount": 1342
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -2912,7 +2912,7 @@
         ]
       }
     ],
-    "downloadCount": 416
+    "downloadCount": 419
   },
   {
     "id": "RepairProgress",
@@ -2976,7 +2976,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 117101
+    "downloadCount": 117102
   },
   {
     "id": "skyeye_voice",
@@ -3261,7 +3261,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 872
+    "downloadCount": 873
   },
   {
     "id": "YawOnMouse",

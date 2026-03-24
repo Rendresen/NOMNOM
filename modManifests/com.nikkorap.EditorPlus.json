@@ -1,6 +1,5 @@
-[
-  null,
-  {
+
+{
     "id": "com.nikkorap.EditorPlus",
     "displayName": "EditorPlus",
     "description": "Enhanced Nuclear Option mission editor: group copy/paste, mass selection, node graph UI, hold position, no-clip, free camera. Original by nikkorap; maintained by Endar728 with copy-paste and fixes.",
@@ -32,5 +31,4 @@
       }
     ],
     "downloadCount": 33
-  }
-]
+}

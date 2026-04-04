@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 386
+    "downloadCount": 388
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 838
+    "downloadCount": 839
   },
   {
     "id": "AircraftWaypoints",
@@ -177,7 +177,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1061
+    "downloadCount": 1063
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -254,7 +254,7 @@
         }
       }
     ],
-    "downloadCount": 3644
+    "downloadCount": 3677
   },
   {
     "id": "bote",
@@ -289,6 +289,19 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "Bote_1.3.2.dll",
+        "version": "1.3.2",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/MinecrackTyler/BoscaliOceanTrainingExercise/releases/download/v1.3.2/Bote_1.3.2.dll",
+        "hash": null,
+        "extends": {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.17"
+        }
+      },
+      {
         "fileName": "Boat_1.3.1.dll",
         "version": "1.3.1",
         "category": "release",
@@ -315,7 +328,7 @@
         }
       }
     ],
-    "downloadCount": 1942
+    "downloadCount": 1696
   },
   {
     "id": "CargoHookFree",
@@ -402,7 +415,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 3644
+    "downloadCount": 3677
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -435,7 +448,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 339
+    "downloadCount": 340
   },
   {
     "id": "FrontlineMap",
@@ -493,7 +506,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 1363
+    "downloadCount": 1370
   },
   {
     "id": "galaxy2_voice",
@@ -648,7 +661,7 @@
         }
       }
     ],
-    "downloadCount": 2060
+    "downloadCount": 2090
   },
   {
     "id": "klawshout_voice",
@@ -714,7 +727,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1334
+    "downloadCount": 1340
   },
   {
     "id": "LiveryManager",
@@ -2420,7 +2433,7 @@
         ]
       }
     ],
-    "downloadCount": 5283
+    "downloadCount": 5287
   },
   {
     "id": "no-autopilot-mod",
@@ -2660,7 +2673,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 3985
+    "downloadCount": 3990
   },
   {
     "id": "NOBlackBox",
@@ -2714,7 +2727,7 @@
         ]
       }
     ],
-    "downloadCount": 2418
+    "downloadCount": 2420
   },
   {
     "id": "NOCursorOverride",
@@ -2854,7 +2867,7 @@
         ]
       }
     ],
-    "downloadCount": 770
+    "downloadCount": 771
   },
   {
     "id": "NOLiveryPlus",
@@ -3043,7 +3056,7 @@
         ]
       }
     ],
-    "downloadCount": 1753
+    "downloadCount": 1758
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3094,7 +3107,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 755
+    "downloadCount": 756
   },
   {
     "id": "NuclearVOIP",
@@ -3245,7 +3258,7 @@
         ]
       }
     ],
-    "downloadCount": 1324
+    "downloadCount": 1329
   },
   {
     "id": "RepairProgress",
@@ -3276,7 +3289,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 673
+    "downloadCount": 675
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3539,7 +3552,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1059
+    "downloadCount": 1063
   },
   {
     "id": "WeatherController",

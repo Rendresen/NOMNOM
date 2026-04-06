@@ -17,7 +17,7 @@ function Validate-ArtifactURL
     Param([string]$URL)
     $isURL = [uri]::IsWellFormedUriString($URL, 'Absolute') -and ([uri] $URL).Scheme -eq 'https'
 
-    $isSupportedArchive = $URL -match ".zip\z|.rar\z|.7z\z|.dll\z"
+    $isSupportedArchive = $URL -match ".zip\z|.rar\z|.7z\z|.dll\z|.nobp\z"
     if ($isURL -and $isSupportedArchive)
     {
         return $true

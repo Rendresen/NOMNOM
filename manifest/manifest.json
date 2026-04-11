@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1234
+    "downloadCount": 1235
   },
   {
     "id": "AircraftWaypoints",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 4530
+    "downloadCount": 4592
   },
   {
     "id": "aryx.mig15",
@@ -294,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 1363
+    "downloadCount": 1376
   },
   {
     "id": "AtomicFramework",
@@ -444,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 4053
+    "downloadCount": 4064
   },
   {
     "id": "bote",
@@ -531,7 +531,7 @@
         }
       }
     ],
-    "downloadCount": 4787
+    "downloadCount": 4797
   },
   {
     "id": "CameraPresets",
@@ -596,7 +596,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 424
+    "downloadCount": 425
   },
   {
     "id": "com.basicGrowl",
@@ -675,7 +675,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 7008
+    "downloadCount": 7037
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -775,7 +775,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 2297
+    "downloadCount": 2305
   },
   {
     "id": "galaxy2_voice",
@@ -930,7 +930,7 @@
         }
       }
     ],
-    "downloadCount": 4172
+    "downloadCount": 4181
   },
   {
     "id": "klawshout_voice",
@@ -996,7 +996,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1697
+    "downloadCount": 1701
   },
   {
     "id": "LiveryManager",
@@ -2702,7 +2702,7 @@
         ]
       }
     ],
-    "downloadCount": 6005
+    "downloadCount": 6008
   },
   {
     "id": "no-autopilot-mod",
@@ -2942,7 +2942,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 4713
+    "downloadCount": 4716
   },
   {
     "id": "NOBlackBox",
@@ -3097,7 +3097,7 @@
         ]
       }
     ],
-    "downloadCount": 400
+    "downloadCount": 402
   },
   {
     "id": "NOFrameLimiter",
@@ -3369,7 +3369,7 @@
         ]
       }
     ],
-    "downloadCount": 2316
+    "downloadCount": 2318
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -3609,7 +3609,7 @@
         ]
       }
     ],
-    "downloadCount": 964
+    "downloadCount": 973
   },
   {
     "id": "RepairProgress",
@@ -3640,7 +3640,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1024
+    "downloadCount": 1026
   },
   {
     "id": "RuntimeUnityEditor",
@@ -3673,7 +3673,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118375
+    "downloadCount": 118382
   },
   {
     "id": "skyeye_voice",
@@ -3757,7 +3757,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 253
+    "downloadCount": 254
   },
   {
     "id": "SplitThrottle",
@@ -3789,7 +3789,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 47
+    "downloadCount": 48
   },
   {
     "id": "ThirdFaction",
@@ -3864,7 +3864,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 537
+    "downloadCount": 540
   },
   {
     "id": "UnitCopyPaste",
@@ -3967,7 +3967,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1388
+    "downloadCount": 1390
   },
   {
     "id": "WeatherController",
@@ -4031,7 +4031,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1251
+    "downloadCount": 1253
   },
   {
     "id": "YawOnMouse",

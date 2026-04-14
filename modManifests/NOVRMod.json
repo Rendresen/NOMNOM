@@ -22,7 +22,7 @@
       "version": "1.33",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1491409442963460176/NOVRUIFix.zip?ex=69d83f88&is=69d6ee08&hm=6fe7802db53893d64dcb1f982d45b001e1bd7c482cb39c47f64e9961edbf88e0&",
       "hash": null,
       "dependencies": [

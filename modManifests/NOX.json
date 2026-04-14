@@ -24,7 +24,7 @@
       "version": "0.3.3",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.3/NOX.7z",
       "hash": null,
       "dependencies": [

@@ -24,7 +24,7 @@
       "version": "0.4",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/KopterBuzz/NOFFB/releases/download/0.4/NOFFB-0.4.zip",
       "hash": null,
       "dependencies": [

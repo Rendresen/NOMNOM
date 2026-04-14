@@ -24,7 +24,7 @@
       "version": "6.3",
       "category": "release",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor/releases/download/v6.3/RuntimeUnityEditor.Bepin5_v6.3.zip",
       "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
     }

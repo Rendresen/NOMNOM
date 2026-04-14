@@ -24,7 +24,7 @@
       "version": "4.17.4",
       "category": "preRelease",
       "type": "plugin",
-      "gameVersion": "0.32",
+      "gameVersion": "0.33",
       "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.17.4/com.qwerty1423.NOAutopilot-4.17.4.7z",
       "hash": null,
       "dependencies": [

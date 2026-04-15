@@ -1,0 +1,39 @@
+{
+  "id": "com.JUSTJ7780.globalsoundreplacerno",
+  "displayName": "Global Sound Replacer NO",
+  "description": "Replaces in-game sounds with custom audio packs, including radio chatter, hot-swappable sound packs, and shuffle support.",
+  "tags": [
+    "Flavor",
+    "QoL",
+    "Sound"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://discord.com/channels/909034158205059082/1478979322466271232"
+    }
+  ],
+  "authors": [
+    "JUSTJ7780"
+  ],
+  "githubOwner": "JUSTJ7780",
+  "githubRepoName": "NO-QOL",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "GAS.Global.Audio.Replacer.zip",
+      "version": "5.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/NO-QOL/releases/download/5.0.0/GAS.Global.Audio.Replacer.zip",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}

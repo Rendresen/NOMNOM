@@ -17,6 +17,25 @@
     "Pande4360"
   ],
   "artifacts": [
+      {
+      "fileName": "VR Fixes.zip",
+      "version": "1.35",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1494024137583100075/Vr_Fixes.zip?ex=69e1c2a8&is=69e07128&hm=3aab0599b43e4cbb8cf348143e66466e1844481fe277f162564370d9e399d413&",
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "uuvr",
+          "version": "0.4.0"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    },
     {
       "fileName": "VR Fixes.zip",
       "version": "1.34",

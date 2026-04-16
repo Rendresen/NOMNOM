@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1594
+    "downloadCount": 1595
   },
   {
     "id": "AircraftWaypoints",
@@ -251,7 +251,7 @@
         }
       }
     ],
-    "downloadCount": 7707
+    "downloadCount": 7741
   },
   {
     "id": "aryx.mig15",
@@ -294,7 +294,7 @@
         }
       }
     ],
-    "downloadCount": 2785
+    "downloadCount": 2800
   },
   {
     "id": "AtomicFramework",
@@ -367,7 +367,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1604
+    "downloadCount": 1605
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -444,7 +444,7 @@
         }
       }
     ],
-    "downloadCount": 5210
+    "downloadCount": 5217
   },
   {
     "id": "bote",
@@ -531,7 +531,7 @@
         }
       }
     ],
-    "downloadCount": 6050
+    "downloadCount": 6057
   },
   {
     "id": "CameraPresets",
@@ -724,7 +724,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 9224
+    "downloadCount": 9237
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -766,7 +766,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 902
+    "downloadCount": 904
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -838,7 +838,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
       }
     ],
-    "downloadCount": 19
+    "downloadCount": 21
   },
   {
     "id": "FrontlineMap",
@@ -896,7 +896,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3019
+    "downloadCount": 3021
   },
   {
     "id": "galaxy2_voice",
@@ -1051,7 +1051,7 @@
         }
       }
     ],
-    "downloadCount": 5328
+    "downloadCount": 5333
   },
   {
     "id": "klawshout_voice",
@@ -1876,7 +1876,7 @@
         ]
       }
     ],
-    "downloadCount": 685
+    "downloadCount": 686
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -2197,7 +2197,7 @@
         ]
       }
     ],
-    "downloadCount": 476
+    "downloadCount": 477
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -2572,7 +2572,7 @@
         ]
       }
     ],
-    "downloadCount": 365
+    "downloadCount": 366
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -2975,7 +2975,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 769
+    "downloadCount": 770
   },
   {
     "id": "MFDVideoPlayer",
@@ -3182,7 +3182,7 @@
         ]
       }
     ],
-    "downloadCount": 7275
+    "downloadCount": 7293
   },
   {
     "id": "no-autopilot-mod",
@@ -3437,7 +3437,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 5792
+    "downloadCount": 5804
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -3523,7 +3523,7 @@
         ]
       }
     ],
-    "downloadCount": 2808
+    "downloadCount": 2810
   },
   {
     "id": "NOCursorOverride",
@@ -3663,7 +3663,7 @@
         ]
       }
     ],
-    "downloadCount": 1105
+    "downloadCount": 1106
   },
   {
     "id": "NOLiveryPlus",
@@ -3949,7 +3949,7 @@
         ]
       }
     ],
-    "downloadCount": 3102
+    "downloadCount": 3113
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4221,7 +4221,7 @@
         ]
       }
     ],
-    "downloadCount": 2016
+    "downloadCount": 2024
   },
   {
     "id": "RepairProgress",
@@ -4285,7 +4285,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 118731
+    "downloadCount": 118736
   },
   {
     "id": "skyeye_voice",
@@ -4401,7 +4401,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SplitThrottle/releases/download/v1.2.0/SplitThrottle_v1.2.0.zip"
       }
     ],
-    "downloadCount": 80
+    "downloadCount": 81
   },
   {
     "id": "ThirdFaction",
@@ -4485,7 +4485,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 761
+    "downloadCount": 763
   },
   {
     "id": "UnitCopyPaste",
@@ -4525,7 +4525,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 204
+    "downloadCount": 207
   },
   {
     "id": "uuvr",
@@ -4652,7 +4652,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1355
+    "downloadCount": 1357
   },
   {
     "id": "YawOnMouse",
@@ -4702,7 +4702,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 502
+    "downloadCount": 503
   },
   {
     "id": "Zorduzd",

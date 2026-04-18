@@ -1,0 +1,34 @@
+{
+  "id": "Com.Hellcat92.FuelBurnEnduranceTimer",
+  "displayName": "NO-FuelBurnEnduranceTimer",
+  "description": "QoL mod to toggle player names on and off and change icon colours in HUD and MAP.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/xHellcat92x/NO-FuelBurnEnduranceTimer"
+    }
+  ],
+  "authors": [
+    "Hellcat92"
+  ],
+  "githubOwner": "xHellcat92x",
+  "githubRepoName": "NO-FuelBurnEnduranceTimer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Com.Hellcat92.FuelBurnEnduranceTimer_1.1.0.dll",
+      "version": "1.1.0",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-FuelBurnEnduranceTimer/releases/download/1.1.0/Com.Hellcat92.FuelBurnEnduranceTimer_1.1.0.dll",
+      "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
+    }  
+  ],
+  "downloadCount": 0
+}

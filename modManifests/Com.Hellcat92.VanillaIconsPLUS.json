@@ -1,0 +1,40 @@
+{
+  "id": "Com.Hellcat92.VanillaIconsPLUS",
+  "displayName": "NO-VanillaIconsPLUS",
+  "description": "QoL mod to toggle player names on and off and change icon colours in HUD and MAP.",
+  "tags": [
+    "mod",
+    "QoL",
+    "HUD"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/xHellcat92x/NO-VanillaIconsPLUS"
+    }
+  ],
+  "authors": [
+    "Hellcat92"
+  ],
+  "githubOwner": "xHellcat92x",
+  "githubRepoName": "NO-VanillaIconsPLUS",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "Com.Hellcat92.VanillaIconsPLUS_1.5.1.dll",
+      "version": "1.5.1",
+      "category": "Release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/xHellcat92x/NO-VanillaIconsPLUS/releases/download/1.5.1/Com.Hellcat92.VanillaIconsPLUS_1.5.1.dll",
+      "hash": "sha256:a49ddcab5d9e63a6d9132e8fd95b00b046ced0cbafadb3acb73ef9a718d94c7e",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }  
+  ],
+  "downloadCount": 0
+}

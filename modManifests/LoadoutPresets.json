@@ -1,0 +1,34 @@
+{
+  "id": "LoadoutPresets",
+  "displayName": "Loadout Presets",
+  "description": "save and load preset Loadouts",
+  "tags": [
+    "mod",
+    "qol"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/RudrNaik/NO-LoadoutPresets"
+    }
+  ],
+  "authors": [
+    "nikkorap",
+    "RudrNaik"
+  ],
+  "githubOwner": "RudrNaik",
+  "githubRepoName": "NO-LoadoutPresets",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "LoadoutPresets_1.0.0.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/RudrNaik/NO-LoadoutPresets/releases/download/v0.0.2/LoadoutPresets_1.0.0.dll",
+      "hash": null
+    }
+  ],
+  "downloadCount": 0
+}

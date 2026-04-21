@@ -26,7 +26,13 @@
       "type": "plugin",
       "gameVersion": "0.33",
       "downloadUrl": "https://github.com/Talon-One-Fighter-Squadron/WinWing-vibration-bridge/releases/download/V1/NOWinWingBridge.dll",
-      "hash": null
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
     }
   ],
   "downloadCount": 0

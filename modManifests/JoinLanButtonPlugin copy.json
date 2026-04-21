@@ -1,0 +1,32 @@
+{
+  "id": "NOWinWingBridge",
+  "displayName": "Winwing Vibration Bridge",
+  "description": "This builds of NOFBBs telemetry code to bring vibration motor functionality to Winwing flight sticks",
+  "tags": [
+    "mod",
+    "qol"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Talon-One-Fighter-Squadron/WinWing-vibration-bridge"
+    }
+  ],
+  "authors": [
+    "ChadFromHighSchool"
+  ],
+  "githubOwner": "Talon-One-Fighter-Squadron",
+  "githubRepoName": "WinWing-vibration-bridge",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOWinWingBridge.dll",
+      "version": "1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Talon-One-Fighter-Squadron/WinWing-vibration-bridge/releases/download/V1/NOWinWingBridge.dll",
+      "hash": null
+    }
+  ]
+}

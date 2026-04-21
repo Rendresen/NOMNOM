@@ -18,12 +18,12 @@
   ],
   "artifacts": [
     {
-      "fileName": "VR Fixes.zip",
+      "fileName": "Vr Fixes.zip",
       "version": "1.35",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.33",
-      "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1494024137583100075/Vr_Fixes.zip?ex=69e1c2a8&is=69e07128&hm=3aab0599b43e4cbb8cf348143e66466e1844481fe277f162564370d9e399d413&",
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1267296334294159430/1494024137583100075/Vr_Fixes.zip?ex=69e85a28&is=69e708a8&hm=aae7e33df2f9b1aabbe65cb2924981ea344e4ff61bda962fa73fe669fce7bcb9&",
       "hash": null,
       "dependencies": [
         {

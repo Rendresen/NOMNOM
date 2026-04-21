@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 10746
+    "downloadCount": 10754
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4180
+    "downloadCount": 4182
   },
   {
     "id": "AtomicFramework",
@@ -496,7 +496,7 @@
         }
       }
     ],
-    "downloadCount": 6198
+    "downloadCount": 6199
   },
   {
     "id": "bote",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 8648
+    "downloadCount": 8658
   },
   {
     "id": "CameraPresets",
@@ -696,7 +696,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 848
+    "downloadCount": 850
   },
   {
     "id": "com.basicGrowl",
@@ -873,7 +873,7 @@
         ]
       }
     ],
-    "downloadCount": 75
+    "downloadCount": 76
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11148
+    "downloadCount": 11153
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1323,7 +1323,7 @@
         }
       }
     ],
-    "downloadCount": 6679
+    "downloadCount": 6693
   },
   {
     "id": "klawshout_voice",
@@ -3469,7 +3469,7 @@
         ]
       }
     ],
-    "downloadCount": 8140
+    "downloadCount": 8141
   },
   {
     "id": "no-autopilot-mod",
@@ -4562,7 +4562,7 @@
         ]
       }
     ],
-    "downloadCount": 3396
+    "downloadCount": 3401
   },
   {
     "id": "RepairProgress",
@@ -4626,7 +4626,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119172
+    "downloadCount": 119174
   },
   {
     "id": "skyeye_voice",
@@ -4826,7 +4826,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 975
+    "downloadCount": 976
   },
   {
     "id": "UnitCopyPaste",

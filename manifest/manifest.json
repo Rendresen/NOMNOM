@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1603
+    "downloadCount": 1605
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1891
+    "downloadCount": 1892
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1074
+    "downloadCount": 1076
   },
   {
     "id": "aryx.f16m",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 11245
+    "downloadCount": 11270
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4320
+    "downloadCount": 4329
   },
   {
     "id": "AtomicFramework",
@@ -419,7 +419,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1769
+    "downloadCount": 1770
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -496,7 +496,7 @@
         }
       }
     ],
-    "downloadCount": 6375
+    "downloadCount": 6386
   },
   {
     "id": "bote",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 9333
+    "downloadCount": 9370
   },
   {
     "id": "CameraPresets",
@@ -759,7 +759,7 @@
         ]
       }
     ],
-    "downloadCount": 31
+    "downloadCount": 32
   },
   {
     "id": "Com.Hellcat92.FuelBurnEnduranceTimer",
@@ -833,7 +833,7 @@
         ]
       }
     ],
-    "downloadCount": 57
+    "downloadCount": 58
   },
   {
     "id": "Com.Hellcat92.VanillaIconsPLUS",
@@ -928,7 +928,7 @@
         ]
       }
     ],
-    "downloadCount": 506
+    "downloadCount": 507
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11508
+    "downloadCount": 11520
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1025,7 +1025,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1076
+    "downloadCount": 1078
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1155,7 +1155,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3617
+    "downloadCount": 3620
   },
   {
     "id": "galaxy2_voice",
@@ -1356,7 +1356,7 @@
         }
       }
     ],
-    "downloadCount": 7618
+    "downloadCount": 7660
   },
   {
     "id": "klawshout_voice",
@@ -1423,7 +1423,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 362
+    "downloadCount": 363
   },
   {
     "id": "LaserRocketFix",
@@ -1455,7 +1455,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2177
+    "downloadCount": 2180
   },
   {
     "id": "LiveryManager",
@@ -1570,7 +1570,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 77
+    "downloadCount": 79
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3393,7 +3393,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 672
+    "downloadCount": 675
   },
   {
     "id": "NO_Tactitools",
@@ -3569,7 +3569,7 @@
         ]
       }
     ],
-    "downloadCount": 8279
+    "downloadCount": 8284
   },
   {
     "id": "no-autopilot-mod",
@@ -3854,7 +3854,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7344
+    "downloadCount": 7354
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -3940,7 +3940,7 @@
         ]
       }
     ],
-    "downloadCount": 2988
+    "downloadCount": 2989
   },
   {
     "id": "NOCursorOverride",
@@ -4042,6 +4042,39 @@
       }
     ],
     "downloadCount": 497
+  },
+  {
+    "id": "NOFFB2",
+    "displayName": "NOFFB2",
+    "description": "Using NOFFB by 7ep3s as a reference, reimplements FFB without needing an external executable running, and adds some other features including bumpiness.",
+    "tags": [
+      "mod",
+      "ffb"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/InfernoSuperNova/NOFFB2"
+      }
+    ],
+    "authors": [
+      "DeltaWing"
+    ],
+    "githubOwner": "InfernoSuperNova",
+    "githubRepoName": "NOFFB2",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NOFFB2.zip",
+        "version": "0.1.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/InfernoSuperNova/NOFFB2/releases/download/0.1.0/NOFFB2.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 0
   },
   {
     "id": "NOFrameLimiter",
@@ -4164,7 +4197,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 417
+    "downloadCount": 418
   },
   {
     "id": "NOVRMod",
@@ -4285,7 +4318,7 @@
         ]
       }
     ],
-    "downloadCount": 6
+    "downloadCount": 7
   },
   {
     "id": "NOX",
@@ -4414,7 +4447,7 @@
         ]
       }
     ],
-    "downloadCount": 3844
+    "downloadCount": 3847
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4701,7 +4734,7 @@
         ]
       }
     ],
-    "downloadCount": 3826
+    "downloadCount": 3837
   },
   {
     "id": "RepairProgress",
@@ -4732,7 +4765,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1572
+    "downloadCount": 1573
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4765,7 +4798,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119269
+    "downloadCount": 119281
   },
   {
     "id": "skyeye_voice",
@@ -5077,7 +5110,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1902
+    "downloadCount": 1905
   },
   {
     "id": "WeatherController",
@@ -5141,7 +5174,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 1437
+    "downloadCount": 1438
   },
   {
     "id": "YawOnMouse",

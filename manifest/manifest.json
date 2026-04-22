@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1618
+    "downloadCount": 1621
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1903
+    "downloadCount": 1904
   },
   {
     "id": "AircraftWaypoints",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 11394
+    "downloadCount": 11411
   },
   {
     "id": "aryx.mig15",
@@ -346,7 +346,7 @@
         }
       }
     ],
-    "downloadCount": 4388
+    "downloadCount": 4394
   },
   {
     "id": "AtomicFramework",
@@ -496,7 +496,7 @@
         }
       }
     ],
-    "downloadCount": 6445
+    "downloadCount": 6452
   },
   {
     "id": "bote",
@@ -622,7 +622,7 @@
         }
       }
     ],
-    "downloadCount": 9516
+    "downloadCount": 9528
   },
   {
     "id": "CameraPresets",
@@ -696,7 +696,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 877
+    "downloadCount": 880
   },
   {
     "id": "com.basicGrowl",
@@ -873,7 +873,7 @@
         ]
       }
     ],
-    "downloadCount": 98
+    "downloadCount": 99
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -983,7 +983,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 11602
+    "downloadCount": 11610
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1025,7 +1025,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1084
+    "downloadCount": 1086
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1155,7 +1155,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3645
+    "downloadCount": 3647
   },
   {
     "id": "galaxy2_voice",
@@ -1356,7 +1356,7 @@
         }
       }
     ],
-    "downloadCount": 7817
+    "downloadCount": 7831
   },
   {
     "id": "klawshout_voice",
@@ -1423,7 +1423,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 396
+    "downloadCount": 397
   },
   {
     "id": "LaserRocketFix",
@@ -1455,7 +1455,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2191
+    "downloadCount": 2193
   },
   {
     "id": "LiveryManager",
@@ -1570,7 +1570,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 104
+    "downloadCount": 107
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3569,7 +3569,7 @@
         ]
       }
     ],
-    "downloadCount": 8327
+    "downloadCount": 8330
   },
   {
     "id": "no-autopilot-mod",
@@ -3854,7 +3854,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7400
+    "downloadCount": 7403
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4447,7 +4447,7 @@
         ]
       }
     ],
-    "downloadCount": 3871
+    "downloadCount": 3875
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4734,7 +4734,7 @@
         ]
       }
     ],
-    "downloadCount": 3932
+    "downloadCount": 3940
   },
   {
     "id": "RepairProgress",
@@ -4765,7 +4765,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1585
+    "downloadCount": 1587
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4798,7 +4798,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119309
+    "downloadCount": 119311
   },
   {
     "id": "skyeye_voice",
@@ -4998,7 +4998,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1023
+    "downloadCount": 1025
   },
   {
     "id": "UnitCopyPaste",
@@ -5110,7 +5110,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 1916
+    "downloadCount": 1917
   },
   {
     "id": "WeatherController",

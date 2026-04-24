@@ -1,0 +1,31 @@
+{
+  "id": "DefensiveAutoTarget",
+  "displayName": "DefensiveAutoTarget",
+  "description": "Bind a button or key to drop all targets and target incoming missiles.",
+  "tags": [
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Modzer0/DefensiveAutoTarget"
+    }
+  ],
+  "authors": [
+    "Modzer0"
+  ],
+  "githubOwner": "Modzer0",
+  "githubRepoName": "DefensiveAutoTarget",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "DefensiveAutoTarget_0.5.0.dll",
+      "version": "0.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Modzer0/DefensiveAutoTarget/releases/download/v0.5.0/DefensiveAutoTarget_0.5.0.dll",
+      "hash": "sha256:ca285d16421b7f023bcc4c628c451938f18815f44b0bc61fd5373ab35b81de67"
+    }
+  ]
+}

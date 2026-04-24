@@ -4,7 +4,7 @@ function Get-GitHubReleases {
         [string]$Owner,
         
         [Parameter(Mandatory = $true)]
-        [string]$Repository,
+        [string]$Repository ,
         
         [Parameter(Mandatory = $false)]
         [switch]$IncludeDraft = $false,

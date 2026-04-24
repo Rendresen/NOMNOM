@@ -1,0 +1,31 @@
+{
+  "id": "MFDCustomizer",
+  "displayName": "MFD Customizer",
+  "description": "Display custom videos, images, and live streams on the Multi-Function Displays (MFDs) of your Nuclear Option cockpit. Per-aircraft slot layouts for all 12 aircraft, multi-slot system (each physical MFD screen can hold a different source), YouTube/Twitch URL playback via bundled yt-dlp, live streams via ffmpeg, in-game edit mode, rotation support.",
+  "tags": [
+    "mod"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/MFDCustomizer"
+    }
+  ],
+  "authors": [
+    "DeltaWing"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "MFDCustomizer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MFDCustomizer-v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.0/MFDCustomizer-v1.0.0.zip",
+      "hash": null
+    }
+  ]
+}

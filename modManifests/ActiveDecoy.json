@@ -1,0 +1,33 @@
+  {
+    "id": "ActiveDecoy",
+    "displayName": "Active Decoy",
+    "description": "Decoy for radar guided missiles like the F-35 has.",
+    "tags": [
+      "mod",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/NuclearOption-ActiveDecoy"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "NuclearOption-ActiveDecoy",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionActiveDecoy.dll",
+        "version": "0.6.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/NuclearOption-ActiveDecoy/releases/download/v0.6.0/NuclearOptionActiveDecoy.dll",
+        "hash": "sha256:c175c67bcfe2fceb6d82a44fb9b9baeb5f8d27de403a6190e1360cfa3de2b6ab"
+      }
+    ],
+    "downloadCount": 0
+  }

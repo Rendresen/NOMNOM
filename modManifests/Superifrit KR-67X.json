@@ -1,0 +1,33 @@
+  {
+    "id": "Superifrit KR-67X",
+    "displayName": "KR-67X Super Ifrit",
+    "description": "Scramjet equipped Ifrit. Need mach 4+ above 60k feet to activate.",
+    "tags": [
+      "mod",
+      "plane"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Modzer0/NuclearOptionIfritMod"
+      }
+    ],
+    "authors": [
+      "Modzer0"
+    ],
+    "githubOwner": "Modzer0",
+    "githubRepoName": "NuclearOptionIfritMod",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NuclearOptionIfritMod-v0.2.0.dll",
+        "version": "0.2.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Modzer0/NuclearOptionIfritMod/releases/download/v0.2.0/NuclearOptionIfritMod-v0.2.0.dll",
+        "hash": "sha256:9e315b0814c1933784544fad4a8a78c011f7d5664c4491b42a43a3d0279a69de"
+      }
+    ],
+    "downloadCount": 0
+  }

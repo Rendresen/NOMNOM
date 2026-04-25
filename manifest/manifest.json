@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2012
+    "downloadCount": 2015
   },
   {
     "id": "AircraftWaypoints",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 12890
+    "downloadCount": 12941
   },
   {
     "id": "aryx.mc260",
@@ -359,7 +359,7 @@
         }
       }
     ],
-    "downloadCount": 4288
+    "downloadCount": 4397
   },
   {
     "id": "aryx.mig15",
@@ -428,7 +428,7 @@
         }
       }
     ],
-    "downloadCount": 5092
+    "downloadCount": 5115
   },
   {
     "id": "AtomicFramework",
@@ -578,7 +578,7 @@
         }
       }
     ],
-    "downloadCount": 7122
+    "downloadCount": 7147
   },
   {
     "id": "bote",
@@ -704,7 +704,7 @@
         }
       }
     ],
-    "downloadCount": 10455
+    "downloadCount": 10484
   },
   {
     "id": "CameraPresets",
@@ -778,7 +778,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 944
+    "downloadCount": 945
   },
   {
     "id": "com.basicGrowl",
@@ -915,7 +915,7 @@
         ]
       }
     ],
-    "downloadCount": 87
+    "downloadCount": 88
   },
   {
     "id": "Com.Hellcat92.VanillaIconsPLUS",
@@ -1010,7 +1010,7 @@
         ]
       }
     ],
-    "downloadCount": 610
+    "downloadCount": 612
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1065,7 +1065,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 13109
+    "downloadCount": 13148
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1107,7 +1107,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1172
+    "downloadCount": 1173
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1143,7 +1143,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearMenuBackground/releases/download/v0.1.0/NuclearMenuBackground-v0.1.0.7z"
       }
     ],
-    "downloadCount": 47
+    "downloadCount": 49
   },
   {
     "id": "dev.dikka.nuclearunits",
@@ -1179,7 +1179,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
       }
     ],
-    "downloadCount": 94
+    "downloadCount": 95
   },
   {
     "id": "FrontlineMap",
@@ -1237,7 +1237,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3897
+    "downloadCount": 3900
   },
   {
     "id": "galaxy2_voice",
@@ -1438,7 +1438,7 @@
         }
       }
     ],
-    "downloadCount": 8971
+    "downloadCount": 9002
   },
   {
     "id": "klawshout_voice",
@@ -1505,7 +1505,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 640
+    "downloadCount": 645
   },
   {
     "id": "LaserRocketFix",
@@ -1537,7 +1537,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2296
+    "downloadCount": 2300
   },
   {
     "id": "LiveryManager",
@@ -1652,7 +1652,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 216
+    "downloadCount": 219
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3041,7 +3041,7 @@
         ]
       }
     ],
-    "downloadCount": 460
+    "downloadCount": 461
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -3444,7 +3444,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 925
+    "downloadCount": 927
   },
   {
     "id": "MFDCustomizer",
@@ -3512,7 +3512,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 67
+    "downloadCount": 69
   },
   {
     "id": "MFDVideoPlayer",
@@ -3719,7 +3719,7 @@
         ]
       }
     ],
-    "downloadCount": 8641
+    "downloadCount": 8652
   },
   {
     "id": "no-autopilot-mod",
@@ -4004,7 +4004,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7806
+    "downloadCount": 7816
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4036,7 +4036,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 115
+    "downloadCount": 116
   },
   {
     "id": "NOBlackBox",
@@ -4090,7 +4090,7 @@
         ]
       }
     ],
-    "downloadCount": 3060
+    "downloadCount": 3061
   },
   {
     "id": "NOCursorOverride",
@@ -4263,7 +4263,7 @@
         ]
       }
     ],
-    "downloadCount": 1278
+    "downloadCount": 1282
   },
   {
     "id": "NOLiveryPlus",
@@ -4597,7 +4597,7 @@
         ]
       }
     ],
-    "downloadCount": 4110
+    "downloadCount": 4114
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4648,7 +4648,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1418
+    "downloadCount": 1421
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -4680,7 +4680,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 83
+    "downloadCount": 84
   },
   {
     "id": "NuclearOptionVRFix",
@@ -4899,7 +4899,7 @@
         ]
       }
     ],
-    "downloadCount": 5124
+    "downloadCount": 5154
   },
   {
     "id": "RepairProgress",
@@ -4939,7 +4939,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1890
+    "downloadCount": 1902
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4972,7 +4972,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119493
+    "downloadCount": 119496
   },
   {
     "id": "skyeye_voice",
@@ -5120,7 +5120,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 184
+    "downloadCount": 190
   },
   {
     "id": "ThirdFaction",
@@ -5204,7 +5204,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1120
+    "downloadCount": 1130
   },
   {
     "id": "UnitCopyPaste",
@@ -5253,7 +5253,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 304
+    "downloadCount": 306
   },
   {
     "id": "uuvr",
@@ -5316,7 +5316,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 2064
+    "downloadCount": 2066
   },
   {
     "id": "WeatherController",
@@ -5347,7 +5347,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 690
+    "downloadCount": 692
   },
   {
     "id": "WSOYappinator",
@@ -5380,7 +5380,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4334
+    "downloadCount": 4337
   },
   {
     "id": "YawOnMouse",

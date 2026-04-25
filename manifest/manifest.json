@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 1754
+    "downloadCount": 1755
   },
   {
     "id": "AIAircraftLimit",
@@ -72,7 +72,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2008
+    "downloadCount": 2009
   },
   {
     "id": "AircraftWaypoints",
@@ -104,7 +104,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1121
+    "downloadCount": 1123
   },
   {
     "id": "aryx.f16m",
@@ -277,7 +277,7 @@
         }
       }
     ],
-    "downloadCount": 12835
+    "downloadCount": 12846
   },
   {
     "id": "aryx.mc260",
@@ -359,7 +359,7 @@
         }
       }
     ],
-    "downloadCount": 4147
+    "downloadCount": 4167
   },
   {
     "id": "aryx.mig15",
@@ -428,7 +428,7 @@
         }
       }
     ],
-    "downloadCount": 5052
+    "downloadCount": 5061
   },
   {
     "id": "AtomicFramework",
@@ -578,7 +578,7 @@
         }
       }
     ],
-    "downloadCount": 7087
+    "downloadCount": 7096
   },
   {
     "id": "bote",
@@ -704,7 +704,7 @@
         }
       }
     ],
-    "downloadCount": 10415
+    "downloadCount": 10431
   },
   {
     "id": "CameraPresets",
@@ -778,7 +778,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 941
+    "downloadCount": 942
   },
   {
     "id": "com.basicGrowl",
@@ -1010,7 +1010,7 @@
         ]
       }
     ],
-    "downloadCount": 605
+    "downloadCount": 606
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1065,7 +1065,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 13059
+    "downloadCount": 13071
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1107,7 +1107,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1167
+    "downloadCount": 1168
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1179,7 +1179,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
       }
     ],
-    "downloadCount": 91
+    "downloadCount": 92
   },
   {
     "id": "FrontlineMap",
@@ -1237,7 +1237,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 3883
+    "downloadCount": 3886
   },
   {
     "id": "galaxy2_voice",
@@ -1438,7 +1438,7 @@
         }
       }
     ],
-    "downloadCount": 8921
+    "downloadCount": 8941
   },
   {
     "id": "klawshout_voice",
@@ -1537,7 +1537,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2293
+    "downloadCount": 2294
   },
   {
     "id": "LiveryManager",
@@ -1652,7 +1652,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 210
+    "downloadCount": 211
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3041,7 +3041,7 @@
         ]
       }
     ],
-    "downloadCount": 456
+    "downloadCount": 459
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -3512,7 +3512,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 65
+    "downloadCount": 66
   },
   {
     "id": "MFDVideoPlayer",
@@ -3719,7 +3719,7 @@
         ]
       }
     ],
-    "downloadCount": 8624
+    "downloadCount": 8629
   },
   {
     "id": "no-autopilot-mod",
@@ -4004,7 +4004,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 7790
+    "downloadCount": 7795
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4597,7 +4597,7 @@
         ]
       }
     ],
-    "downloadCount": 4092
+    "downloadCount": 4098
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4648,7 +4648,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1409
+    "downloadCount": 1413
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -4899,7 +4899,7 @@
         ]
       }
     ],
-    "downloadCount": 5092
+    "downloadCount": 5100
   },
   {
     "id": "RepairProgress",
@@ -4939,7 +4939,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 1880
+    "downloadCount": 1883
   },
   {
     "id": "RuntimeUnityEditor",
@@ -4972,7 +4972,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119491
+    "downloadCount": 119493
   },
   {
     "id": "skyeye_voice",
@@ -5056,7 +5056,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 369
+    "downloadCount": 370
   },
   {
     "id": "SplitThrottle",
@@ -5091,9 +5091,9 @@
     "downloadCount": 134
   },
   {
-    "id": "Target Estimator",
-    "displayName": "TargetEstimator",
-    "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity × elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
+    "id": "TargetEstimator",
+    "displayName": "Target Estimator",
+    "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity x elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
     "tags": [
       "mod"
     ],
@@ -5119,38 +5119,8 @@
         "downloadUrl": "https://github.com/9138noms/TargetEstimator/releases/download/v1.0.0/TargetEstimator.dll",
         "hash": null
       }
-    ]
-  },
-  {
-    "id": "Target Estimator",
-    "displayName": "TargetEstimator",
-    "description": "Estimates the position of selected targets after datalink is lost, using dead reckoning (last known velocity × elapsed time). Aircraft get X cross marker + direction line + uncertainty circle (60s per selection). Ships get square marker + direction line. Ground vehicles get square marker snapped to nearest road point (recalculated every 2s). F10 to toggle.",
-    "tags": [
-      "mod"
     ],
-    "urls": [
-      {
-        "name": "info",
-        "url": "https://github.com/9138noms/TargetEstimator"
-      }
-    ],
-    "authors": [
-      "DeltaWing"
-    ],
-    "githubOwner": "9138noms",
-    "githubRepoName": "TargetEstimator",
-    "autoUpdateArtifacts": "True",
-    "artifacts": [
-      {
-        "fileName": "TargetEstimator.dll",
-        "version": "1.0.0",
-        "category": "release",
-        "type": "plugin",
-        "gameVersion": "0.33",
-        "downloadUrl": "https://github.com/9138noms/TargetEstimator/releases/download/v1.0.0/TargetEstimator.dll",
-        "hash": null
-      }
-    ]
+    "downloadCount": 178
   },
   {
     "id": "ThirdFaction",
@@ -5234,7 +5204,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1112
+    "downloadCount": 1113
   },
   {
     "id": "UnitCopyPaste",
@@ -5283,7 +5253,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 303
+    "downloadCount": 304
   },
   {
     "id": "uuvr",
@@ -5346,7 +5316,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 2057
+    "downloadCount": 2059
   },
   {
     "id": "WeatherController",
@@ -5410,7 +5380,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4326
+    "downloadCount": 4328
   },
   {
     "id": "YawOnMouse",
@@ -5460,7 +5430,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 581
+    "downloadCount": 582
   },
   {
     "id": "Zorduzd",

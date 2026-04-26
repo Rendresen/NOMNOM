@@ -11,7 +11,7 @@
   "urls": [
     {
       "name": "info",
-      "url": "https://github.com/Aryx3D/Aryx-s-F-16M/blob/main/README.md"
+      "url": "https://github.com/Aryx3D/Aryx-F-16M/blob/main/README.md"
     },
     {
       "name": "discord",
@@ -22,7 +22,7 @@
     "Aryx"
   ],
   "githubOwner": "Aryx3D",
-  "githubRepoName": "Aryx-s-F-16M",
+  "githubRepoName": "Aryx-F-16M",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
@@ -148,7 +148,7 @@
       "category": "release",
       "type": "addon",
       "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
       "hash": null,
       "extends": {
         "id": "com.nikkorap.blueprinter",
@@ -161,7 +161,7 @@
       "category": "release",
       "type": "addon",
       "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/Aryx3D/Aryx-s-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.0.0/Aryx_F16M_1.00.nobp",
       "hash": "",
       "extends": {
         "id": "com.nikkorap.blueprinter",

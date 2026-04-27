@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 153
+    "downloadCount": 154
   },
   {
     "id": "AIAircraftLimit",
@@ -343,7 +343,7 @@
         }
       }
     ],
-    "downloadCount": 13959
+    "downloadCount": 13962
   },
   {
     "id": "aryx.mc260",
@@ -451,7 +451,7 @@
         }
       }
     ],
-    "downloadCount": 7162
+    "downloadCount": 7168
   },
   {
     "id": "aryx.mig15",
@@ -520,7 +520,7 @@
         }
       }
     ],
-    "downloadCount": 5629
+    "downloadCount": 5632
   },
   {
     "id": "AtomicFramework",
@@ -659,7 +659,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 418
+    "downloadCount": 419
   },
   {
     "id": "blueprinter.kestrel",
@@ -703,7 +703,7 @@
         }
       }
     ],
-    "downloadCount": 7766
+    "downloadCount": 7769
   },
   {
     "id": "bote",
@@ -829,7 +829,7 @@
         }
       }
     ],
-    "downloadCount": 11154
+    "downloadCount": 11156
   },
   {
     "id": "CameraPresets",
@@ -1190,7 +1190,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 14295
+    "downloadCount": 14299
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1595,7 +1595,7 @@
         }
       }
     ],
-    "downloadCount": 9762
+    "downloadCount": 9763
   },
   {
     "id": "klawshout_voice",
@@ -1809,7 +1809,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 297
+    "downloadCount": 299
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3876,7 +3876,7 @@
         ]
       }
     ],
-    "downloadCount": 8887
+    "downloadCount": 8888
   },
   {
     "id": "no-autopilot-mod",
@@ -4247,7 +4247,40 @@
         ]
       }
     ],
-    "downloadCount": 3101
+    "downloadCount": 3103
+  },
+  {
+    "id": "NOControllerVibration",
+    "displayName": "NOControllerVibration",
+    "description": "A mod and script to allow dynamic vibration feedback in Nuclear Option.",
+    "tags": [
+      "mod",
+      "ffb"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/pauel3312/NOControllerVibration"
+      }
+    ],
+    "authors": [
+      "pauel3312"
+    ],
+    "githubOwner": "pauel3312",
+    "githubRepoName": "NOControllerVibration",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "NOCV.zip",
+        "version": "0.33.2.2",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.2.2/NOCV.zip",
+        "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
+      }
+    ],
+    "downloadCount": 5
   },
   {
     "id": "NOCursorOverride",
@@ -4420,7 +4453,7 @@
         ]
       }
     ],
-    "downloadCount": 1313
+    "downloadCount": 1314
   },
   {
     "id": "NOLiveryPlus",
@@ -5056,7 +5089,7 @@
         ]
       }
     ],
-    "downloadCount": 5816
+    "downloadCount": 5818
   },
   {
     "id": "RepairProgress",
@@ -5129,7 +5162,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119658
+    "downloadCount": 119659
   },
   {
     "id": "skyeye_voice",
@@ -5537,7 +5570,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 761
+    "downloadCount": 762
   },
   {
     "id": "WSOYappinator",
@@ -5570,7 +5603,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4509
+    "downloadCount": 4511
   },
   {
     "id": "YawOnMouse",

@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 326
+    "downloadCount": 332
   },
   {
     "id": "ActiveDecoy",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 320
+    "downloadCount": 323
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2244
+    "downloadCount": 2245
   },
   {
     "id": "AircraftWaypoints",
@@ -343,7 +343,7 @@
         }
       }
     ],
-    "downloadCount": 14777
+    "downloadCount": 14792
   },
   {
     "id": "aryx.mc260",
@@ -464,7 +464,7 @@
         }
       }
     ],
-    "downloadCount": 9141
+    "downloadCount": 9172
   },
   {
     "id": "aryx.mig15",
@@ -533,7 +533,7 @@
         }
       }
     ],
-    "downloadCount": 6074
+    "downloadCount": 6082
   },
   {
     "id": "AtomicFramework",
@@ -672,7 +672,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 632
+    "downloadCount": 636
   },
   {
     "id": "blueprinter.kestrel",
@@ -716,7 +716,7 @@
         }
       }
     ],
-    "downloadCount": 8276
+    "downloadCount": 8283
   },
   {
     "id": "bote",
@@ -842,7 +842,7 @@
         }
       }
     ],
-    "downloadCount": 11722
+    "downloadCount": 11731
   },
   {
     "id": "CameraPresets",
@@ -1093,7 +1093,7 @@
         ]
       }
     ],
-    "downloadCount": 238
+    "downloadCount": 239
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -1148,7 +1148,7 @@
         ]
       }
     ],
-    "downloadCount": 779
+    "downloadCount": 781
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1203,7 +1203,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 15196
+    "downloadCount": 15212
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1286,7 +1286,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 93
+    "downloadCount": 96
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1358,7 +1358,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearUnits/releases/download/v1.2.0/NuclearUnits-v1.2.0.7z"
       }
     ],
-    "downloadCount": 134
+    "downloadCount": 135
   },
   {
     "id": "FrontlineMap",
@@ -1416,7 +1416,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 4322
+    "downloadCount": 4323
   },
   {
     "id": "galaxy2_voice",
@@ -1617,7 +1617,7 @@
         }
       }
     ],
-    "downloadCount": 10371
+    "downloadCount": 10380
   },
   {
     "id": "klawshout_voice",
@@ -1684,7 +1684,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1033
+    "downloadCount": 1036
   },
   {
     "id": "LaserRocketFix",
@@ -3691,7 +3691,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 102
+    "downloadCount": 103
   },
   {
     "id": "MFDVideoPlayer",
@@ -3722,7 +3722,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v2.0.0/MFDVideoPlayer.dll"
       }
     ],
-    "downloadCount": 756
+    "downloadCount": 759
   },
   {
     "id": "NO_Tactitools",
@@ -4198,7 +4198,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 8649
+    "downloadCount": 8655
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4230,7 +4230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 146
+    "downloadCount": 147
   },
   {
     "id": "NOBlackBox",
@@ -4284,7 +4284,7 @@
         ]
       }
     ],
-    "downloadCount": 3161
+    "downloadCount": 3166
   },
   {
     "id": "NOControllerVibration",
@@ -4846,7 +4846,7 @@
         ]
       }
     ],
-    "downloadCount": 4430
+    "downloadCount": 4431
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4897,7 +4897,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1564
+    "downloadCount": 1565
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -4929,7 +4929,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 117
+    "downloadCount": 118
   },
   {
     "id": "NuclearOptionVRFix",
@@ -5148,7 +5148,7 @@
         ]
       }
     ],
-    "downloadCount": 6270
+    "downloadCount": 6274
   },
   {
     "id": "RepairProgress",
@@ -5188,7 +5188,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 2295
+    "downloadCount": 2296
   },
   {
     "id": "RuntimeUnityEditor",
@@ -5221,7 +5221,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 119852
+    "downloadCount": 119856
   },
   {
     "id": "skyeye_voice",
@@ -5370,7 +5370,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 939
+    "downloadCount": 945
   },
   {
     "id": "TargetEstimator",
@@ -5531,7 +5531,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1327
+    "downloadCount": 1332
   },
   {
     "id": "UnitCopyPaste",
@@ -5643,7 +5643,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 2301
+    "downloadCount": 2305
   },
   {
     "id": "WeatherController",
@@ -5707,7 +5707,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4676
+    "downloadCount": 4680
   },
   {
     "id": "YawOnMouse",
@@ -5757,7 +5757,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 607
+    "downloadCount": 608
   },
   {
     "id": "Zorduzd",

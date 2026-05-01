@@ -24,6 +24,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Blueprinter_1.8.18.dll",
+      "version": "1.8.18",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NOBlueprinter-Releases/releases/download/1.8.18/Blueprinter_1.8.18.dll",
+      "hash": "sha256:78ddc7ca7735da74991a0b9e6152e043e4d58de4f06f5d21629a440dfe02e4a8"
+    },
+    {
       "fileName": "Blueprinter_1.8.17.dll",
       "version": "1.8.17",
       "category": "release",
@@ -51,5 +60,5 @@
       "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
     }
   ],
-  "downloadCount": 15347
+  "downloadCount": 15562
 }

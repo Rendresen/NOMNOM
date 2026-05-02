@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx.s.F16M_1.1.1.nobp",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-F-16M/releases/download/1.1.1/Aryx.s.F16M_1.1.1.nobp",
+      "hash": "sha256:26b06b892d7ba8cec91ec115fe25b1e4ee4ba5b201780e19a8343112fe994168",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "Aryx.s.F16M_1.10.nobp",
       "version": "1.1.0",
       "category": "release",
@@ -182,5 +195,5 @@
       }
     }
   ],
-  "downloadCount": 15973
+  "downloadCount": 16061
 }

@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 2222
+    "downloadCount": 2223
   },
   {
     "id": "AB-4X mod",
@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 619
+    "downloadCount": 622
   },
   {
     "id": "ActiveDecoy",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2385
+    "downloadCount": 2387
   },
   {
     "id": "AircraftWaypoints",
@@ -369,7 +369,7 @@
         }
       }
     ],
-    "downloadCount": 16929
+    "downloadCount": 16966
   },
   {
     "id": "aryx.mc260",
@@ -516,7 +516,7 @@
         }
       }
     ],
-    "downloadCount": 12146
+    "downloadCount": 12194
   },
   {
     "id": "aryx.mig15",
@@ -598,7 +598,7 @@
         }
       }
     ],
-    "downloadCount": 7003
+    "downloadCount": 7023
   },
   {
     "id": "AtomicFramework",
@@ -671,7 +671,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2008
+    "downloadCount": 2012
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -737,7 +737,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 877
+    "downloadCount": 882
   },
   {
     "id": "blueprinter.kestrel",
@@ -781,7 +781,7 @@
         }
       }
     ],
-    "downloadCount": 9014
+    "downloadCount": 9028
   },
   {
     "id": "bote",
@@ -907,7 +907,7 @@
         }
       }
     ],
-    "downloadCount": 12421
+    "downloadCount": 12435
   },
   {
     "id": "CameraPresets",
@@ -1213,7 +1213,7 @@
         ]
       }
     ],
-    "downloadCount": 863
+    "downloadCount": 865
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1277,7 +1277,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 18231
+    "downloadCount": 18272
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1360,7 +1360,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 244
+    "downloadCount": 246
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1490,7 +1490,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 4573
+    "downloadCount": 4579
   },
   {
     "id": "galaxy2_voice",
@@ -1691,7 +1691,7 @@
         }
       }
     ],
-    "downloadCount": 11160
+    "downloadCount": 11170
   },
   {
     "id": "klawshout_voice",
@@ -1758,7 +1758,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1255
+    "downloadCount": 1257
   },
   {
     "id": "LaserRocketFix",
@@ -1790,7 +1790,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2633
+    "downloadCount": 2635
   },
   {
     "id": "LiveryManager",
@@ -1905,7 +1905,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 458
+    "downloadCount": 461
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3294,7 +3294,7 @@
         ]
       }
     ],
-    "downloadCount": 534
+    "downloadCount": 536
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -3972,7 +3972,7 @@
         ]
       }
     ],
-    "downloadCount": 9423
+    "downloadCount": 9433
   },
   {
     "id": "no-autopilot-mod",
@@ -4272,7 +4272,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 9169
+    "downloadCount": 9183
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4358,7 +4358,7 @@
         ]
       }
     ],
-    "downloadCount": 3245
+    "downloadCount": 3247
   },
   {
     "id": "NOControllerVibration",
@@ -4591,7 +4591,7 @@
         ]
       }
     ],
-    "downloadCount": 1412
+    "downloadCount": 1413
   },
   {
     "id": "NOLiveryPlus",
@@ -4929,7 +4929,7 @@
         ]
       }
     ],
-    "downloadCount": 4612
+    "downloadCount": 4617
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -4980,7 +4980,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1657
+    "downloadCount": 1660
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -5246,7 +5246,7 @@
         ]
       }
     ],
-    "downloadCount": 7343
+    "downloadCount": 7353
   },
   {
     "id": "RepairProgress",
@@ -5286,7 +5286,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 2498
+    "downloadCount": 2500
   },
   {
     "id": "RuntimeUnityEditor",
@@ -5319,7 +5319,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 120105
+    "downloadCount": 120112
   },
   {
     "id": "skyeye_voice",
@@ -5468,7 +5468,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 1249
+    "downloadCount": 1259
   },
   {
     "id": "TargetEstimator",
@@ -5647,7 +5647,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 1538
+    "downloadCount": 1539
   },
   {
     "id": "UnitCopyPaste",
@@ -5759,7 +5759,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 2472
+    "downloadCount": 2477
   },
   {
     "id": "WeatherController",
@@ -5790,7 +5790,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 905
+    "downloadCount": 906
   },
   {
     "id": "WSOYappinator",
@@ -5823,7 +5823,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4876
+    "downloadCount": 4878
   },
   {
     "id": "YawOnMouse",
@@ -5873,7 +5873,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 636
+    "downloadCount": 637
   },
   {
     "id": "Zorduzd",

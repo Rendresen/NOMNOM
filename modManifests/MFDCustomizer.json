@@ -19,6 +19,15 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "MFDCustomizer-v1.0.5.zip",
+      "version": "1.0.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/9138noms/MFDCustomizer/releases/download/v1.0.5/MFDCustomizer-v1.0.5.zip",
+      "hash": "sha256:e0f5dd08c9abdd8fb2de8694161dd2ee06b0b0881b25f0ba268359dbf9d2c4aa"
+    },
+    {
       "fileName": "MFDCustomizer-v1.0.4.zip",
       "version": "1.0.4",
       "category": "release",
@@ -64,5 +73,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 149
+  "downloadCount": 150
 }

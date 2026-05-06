@@ -21,6 +21,33 @@
   "artifacts": [
     {
       "fileName": "LocalizationPatch_ru.zip",
+      "version": "3.0.4",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-RussianPatch/releases/download/v3.0.4/LocalizationPatch_ru.zip",
+      "hash": "sha256:ed6d3c9cf7be3a3b9d14ebf61e2df815c2a9180faed6c5ae6f31551c5d3d787c",
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "LocalizationPatch_ru.zip",
       "version": "3.0.3",
       "category": "release",
       "type": "plugin",
@@ -425,5 +452,5 @@
       ]
     }
   ],
-  "downloadCount": 564
+  "downloadCount": 566
 }

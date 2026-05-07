@@ -1,0 +1,38 @@
+{
+  "id": "NO-MoarLasers",
+  "displayName": "",
+  "description": "",
+  "tags": [
+    "Mod",
+    "Flavour"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/RudrNaik/NO-MoarLasers"
+    }
+  ],
+  "authors": [
+    "RudrNaik"
+  ],
+  "githubOwner": "RudrNaik",
+  "githubRepoName": "NO-MoarLasers",
+  "autoUpdateArtifacts": "",
+  "artifacts": [
+    {
+      "fileName": "MoarLases.dll",
+      "version": "1.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "",
+      "downloadUrl": "https://github.com/RudrNaik/NO-MoarLasers/releases/download/v1.0.1/MoarLases.dll",
+      "hash": "sha256:34c82133eb20f5ae019996ba0768be947f9f432e524c45f42867d5d7373849a0",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}

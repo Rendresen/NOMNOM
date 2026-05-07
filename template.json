@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "displayName": "",
+  "description": "",
+  "tags": [
+    ""
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": ""
+    }
+  ],
+  "authors": [
+    ""
+  ],
+  "githubOwner": "",
+  "githubRepoName": "",
+  "autoUpdateArtifacts": "",
+  "artifacts": [
+    {
+      "fileName": "",
+      "version": "",
+      "category": "",
+      "type": "",
+      "gameVersion": "",
+      "downloadUrl": "",
+      "hash": "",
+      "dependencies": [
+        {
+          "id": "",
+          "version": ""
+        }
+      ]
+    }
+  ]
+}

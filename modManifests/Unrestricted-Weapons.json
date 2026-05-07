@@ -1,0 +1,40 @@
+{
+  "id": "Unrestricted-Weapons",
+  "displayName": "Unrestricted Weapons",
+  "description": "Description: All credits to nikkorap for the original mod. I am just maintaining it. A fan favourite mod that allows any weapon on any pylon.",
+  "tags": [
+    "Aircraft",
+    "QOL",
+    "Flavour"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/JUSTJ7780/Unrestricted-Weapons"
+    }
+  ],
+  "authors": [
+    "Nikkorap",
+    "JUSTJ"
+  ],
+  "githubOwner": "JUSTJ7780",
+  "githubRepoName": "Unrestricted-Weapons",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "UnrestrictedWeapons.dll",
+      "version": "1.5.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/JUSTJ7780/Unrestricted-Weapons/releases/download/1.5.0/UnrestrictedWeapons.dll",
+      "hash": "sha256:8e15d5f2fbda27c20056995b9cbb7285efac1baba7a44a255015c6af0eb04589",
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ]
+}

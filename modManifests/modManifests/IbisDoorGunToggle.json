@@ -1,0 +1,33 @@
+{
+  "id": "IbisDoorGunToggle",
+  "displayName": "Ibis Door Gun Toggle",
+  "description": "Animated UH-90 Ibis door gun stow/deploy mod.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle"
+    }
+  ],
+  "authors": [
+    "Rendresen"
+  ],
+  "githubOwner": "Rendresen",
+  "githubRepoName": "Ibis-Door-Gun-Toggle",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "IbisDoorGunToggle-1.7.55.zip",
+      "version": "1.7.55",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle/releases/download/v1.7.55/IbisDoorGunToggle-1.7.55.zip",
+      "hash": null
+    }
+  ]
+}

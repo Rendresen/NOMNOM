@@ -33,7 +33,7 @@
       "type": "addon",
       "gameVersion": "0.32",
       "downloadUrl": "https://github.com/nikkorap/NOKestrel/releases/download/2.1.0/FQ-106_2.1.0.dll",
-      "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb",
+      "hash": "sha256:4fb312814e6658191a7fb13b15afb3e9b44e4f5bea849e777d287f75f82d5c9f",
       "extends": {
         "id": "com.nikkorap.blueprinter",
         "version": "1.8.17"

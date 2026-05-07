@@ -2,7 +2,9 @@
   "id": "NuclearOptionControllerTuner",
   "displayName": "Nuclear Option Controller Tuner",
   "description": "Adds per-axis response curves (Linear, Power, SCurve, Logistic, Cubic) for any gamepad. Tune deadzone, saturation, shape, sensitivity, and inversion individually for Pitch, Roll, Yaw, Pan View, and Tilt View. Works with DualSense, Xbox controllers, generic gamepads, joysticks, and rudder pedals via Rewired. Keyboard and mouse pass through untouched.",
-  "tags": ["QoL"],
+  "tags": [
+    "QoL"
+  ],
   "urls": [
     {
       "name": "info",
@@ -13,7 +15,9 @@
       "url": "https://github.com/TheDEMIKus/Nuclear-Option-Controller-Tuner-Mod/issues"
     }
   ],
-  "authors": ["TheDEMIKus"],
+  "authors": [
+    "TheDEMIKus"
+  ],
   "githubOwner": "TheDEMIKus",
   "githubRepoName": "Nuclear-Option-Controller-Tuner-Mod",
   "autoUpdateArtifacts": "True",
@@ -26,5 +30,6 @@
       "version": "1.0.0",
       "category": "Release"
     }
-  ]
+  ],
+  "downloadCount": 15
 }

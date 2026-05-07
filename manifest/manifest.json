@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 831
+    "downloadCount": 832
   },
   {
     "id": "ActiveDecoy",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 626
+    "downloadCount": 628
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2526
+    "downloadCount": 2527
   },
   {
     "id": "AircraftWaypoints",
@@ -369,7 +369,7 @@
         }
       }
     ],
-    "downloadCount": 18604
+    "downloadCount": 18617
   },
   {
     "id": "aryx.mc260",
@@ -516,7 +516,7 @@
         }
       }
     ],
-    "downloadCount": 14247
+    "downloadCount": 14265
   },
   {
     "id": "aryx.mig15",
@@ -598,7 +598,7 @@
         }
       }
     ],
-    "downloadCount": 7919
+    "downloadCount": 7934
   },
   {
     "id": "AtomicFramework",
@@ -737,7 +737,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 1182
+    "downloadCount": 1183
   },
   {
     "id": "blueprinter.kestrel",
@@ -781,7 +781,7 @@
         }
       }
     ],
-    "downloadCount": 9705
+    "downloadCount": 9708
   },
   {
     "id": "bote",
@@ -907,7 +907,7 @@
         }
       }
     ],
-    "downloadCount": 13059
+    "downloadCount": 13063
   },
   {
     "id": "CameraPresets",
@@ -1044,7 +1044,7 @@
         ]
       }
     ],
-    "downloadCount": 113
+    "downloadCount": 115
   },
   {
     "id": "Com.Hellcat92.FuelBurnEnduranceTimer",
@@ -1078,7 +1078,7 @@
         "hash": "sha256:1ce74fc011e60199c4f98ca8c05d154e5be21470e0ebc336097890ac9f49a4da"
       }
     ],
-    "downloadCount": 230
+    "downloadCount": 231
   },
   {
     "id": "Com.Hellcat92.TargetGridRefHUD",
@@ -1158,7 +1158,7 @@
         ]
       }
     ],
-    "downloadCount": 316
+    "downloadCount": 319
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -1277,7 +1277,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 20262
+    "downloadCount": 20278
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1360,7 +1360,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 430
+    "downloadCount": 433
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1490,7 +1490,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 4804
+    "downloadCount": 4808
   },
   {
     "id": "galaxy2_voice",
@@ -1559,6 +1559,40 @@
       }
     ],
     "downloadCount": 0
+  },
+  {
+    "id": "IbisDoorGunToggle",
+    "displayName": "Ibis Door Gun Toggle",
+    "description": "Animated UH-90 Ibis door gun stow/deploy mod.",
+    "tags": [
+      "mod",
+      "Aircraft",
+      "QoL"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle"
+      }
+    ],
+    "authors": [
+      "Rendresen"
+    ],
+    "githubOwner": "Rendresen",
+    "githubRepoName": "Ibis-Door-Gun-Toggle",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "IbisDoorGunToggle-1.7.56.zip",
+        "version": "1.7.56",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle/releases/download/v1.7.56/IbisDoorGunToggle-1.7.56.zip",
+        "hash": null
+      }
+    ],
+    "downloadCount": 1
   },
   {
     "id": "jester_voice",
@@ -1691,7 +1725,7 @@
         }
       }
     ],
-    "downloadCount": 11906
+    "downloadCount": 11912
   },
   {
     "id": "klawshout_voice",
@@ -1758,7 +1792,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1468
+    "downloadCount": 1469
   },
   {
     "id": "LaserRocketFix",
@@ -1905,7 +1939,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 570
+    "downloadCount": 571
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -4062,7 +4096,7 @@
         ]
       }
     ],
-    "downloadCount": 9780
+    "downloadCount": 9783
   },
   {
     "id": "no-autopilot-mod",
@@ -4362,7 +4396,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 9636
+    "downloadCount": 9645
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4395,6 +4429,44 @@
       }
     ],
     "downloadCount": 177
+  },
+  {
+    "id": "NO-MoarLasers",
+    "displayName": "",
+    "description": "",
+    "tags": [
+      "Mod",
+      "Flavour"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/RudrNaik/NO-MoarLasers"
+      }
+    ],
+    "authors": [
+      "RudrNaik"
+    ],
+    "githubOwner": "RudrNaik",
+    "githubRepoName": "NO-MoarLasers",
+    "autoUpdateArtifacts": "",
+    "artifacts": [
+      {
+        "fileName": "MoarLases.dll",
+        "version": "1.0.1",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/RudrNaik/NO-MoarLasers/releases/download/v1.0.1/MoarLases.dll",
+        "hash": "sha256:34c82133eb20f5ae019996ba0768be947f9f432e524c45f42867d5d7373849a0",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "NOBlackBox",
@@ -4690,7 +4762,7 @@
         ]
       }
     ],
-    "downloadCount": 1493
+    "downloadCount": 1495
   },
   {
     "id": "NOLiveryPlus",
@@ -5028,7 +5100,7 @@
         ]
       }
     ],
-    "downloadCount": 4860
+    "downloadCount": 4861
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -5380,7 +5452,7 @@
         ]
       }
     ],
-    "downloadCount": 8357
+    "downloadCount": 8364
   },
   {
     "id": "RepairProgress",
@@ -5420,7 +5492,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 2734
+    "downloadCount": 2736
   },
   {
     "id": "RuntimeUnityEditor",
@@ -5453,7 +5525,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 120517
+    "downloadCount": 120519
   },
   {
     "id": "skyeye_voice",
@@ -5537,7 +5609,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 479
+    "downloadCount": 480
   },
   {
     "id": "SplitThrottle",
@@ -5602,7 +5674,45 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 1535
+    "downloadCount": 1537
+  },
+  {
+    "id": "TargetCamControl",
+    "displayName": "Tactical Camera Controller",
+    "description": "Take manual control of the cockpit target camera for free pan/tilt/zoom even without a target lock, with automatic ground-point tracking. Pan to aim, stop and the plugin raycasts where you're looking and snaps the camera onto that world point — tracks it as the aircraft moves around (JTAC / lasing-pod style designation). Up to 40× zoom with zoom-aware fine sensitivity, MFD HUD overlay (RNG/ALT/HDG/GRID/MODE/Mag), IR↔Color toggle, floating-origin safe lock storage, self-collision filter, auto-revert when the game locks a real target. Multiplayer compatible — client-side only.",
+    "tags": [
+      "Mod"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/9138noms/TargetCamControl"
+      }
+    ],
+    "authors": [
+      "9138noms"
+    ],
+    "githubOwner": "9138noms",
+    "githubRepoName": "TargetCamControl",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "TargetCamControl.dll",
+        "version": "1.0.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/9138noms/TargetCamControl/releases/download/v1.0.0/TargetCamControl.dll",
+        "hash": "sha256:b1c3f77808e4e382899daff0aeeb39dec932c38f681aa1a5a1ea79712f22ff06",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 37
   },
   {
     "id": "TargetEstimator",
@@ -5634,7 +5744,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 673
+    "downloadCount": 675
   },
   {
     "id": "ThirdFaction",
@@ -5833,6 +5943,47 @@
     "downloadCount": 383
   },
   {
+    "id": "Unrestricted-Weapons",
+    "displayName": "Unrestricted Weapons",
+    "description": "Description: All credits to nikkorap for the original mod. I am just maintaining it. A fan favourite mod that allows any weapon on any pylon.",
+    "tags": [
+      "Aircraft",
+      "QOL",
+      "Flavour"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/JUSTJ7780/Unrestricted-Weapons"
+      }
+    ],
+    "authors": [
+      "Nikkorap",
+      "JUSTJ"
+    ],
+    "githubOwner": "JUSTJ7780",
+    "githubRepoName": "Unrestricted-Weapons",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "fileName": "UnrestrictedWeapons.dll",
+        "version": "1.5.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/JUSTJ7780/Unrestricted-Weapons/releases/download/1.5.0/UnrestrictedWeapons.dll",
+        "hash": "sha256:8e15d5f2fbda27c20056995b9cbb7285efac1baba7a44a255015c6af0eb04589",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      }
+    ],
+    "downloadCount": 101
+  },
+  {
     "id": "uuvr",
     "displayName": "uuvr",
     "description": "Universal VR mod for Unity games",
@@ -5893,7 +6044,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 2631
+    "downloadCount": 2632
   },
   {
     "id": "WeatherController",
@@ -5924,7 +6075,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 976
+    "downloadCount": 978
   },
   {
     "id": "WSOYappinator",
@@ -5957,7 +6108,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 5108
+    "downloadCount": 5111
   },
   {
     "id": "YawOnMouse",

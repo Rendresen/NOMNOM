@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 2377
+    "downloadCount": 2381
   },
   {
     "id": "AB-4X mod",
@@ -72,7 +72,7 @@
         "hash": "sha256:48cca4e41e038f61e9cd3ce34fcefda5d533ac26b97e79e76188dc1cd1fe0f93"
       }
     ],
-    "downloadCount": 844
+    "downloadCount": 848
   },
   {
     "id": "ActiveDecoy",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 642
+    "downloadCount": 643
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2536
+    "downloadCount": 2539
   },
   {
     "id": "AircraftWaypoints",
@@ -170,7 +170,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1334
+    "downloadCount": 1337
   },
   {
     "id": "aryx.f16m",
@@ -369,7 +369,7 @@
         }
       }
     ],
-    "downloadCount": 18702
+    "downloadCount": 18730
   },
   {
     "id": "aryx.mc260",
@@ -516,7 +516,7 @@
         }
       }
     ],
-    "downloadCount": 14371
+    "downloadCount": 14410
   },
   {
     "id": "aryx.mig15",
@@ -598,7 +598,7 @@
         }
       }
     ],
-    "downloadCount": 8002
+    "downloadCount": 8011
   },
   {
     "id": "AtomicFramework",
@@ -737,7 +737,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 1207
+    "downloadCount": 1209
   },
   {
     "id": "blueprinter.kestrel",
@@ -781,7 +781,7 @@
         }
       }
     ],
-    "downloadCount": 9763
+    "downloadCount": 9772
   },
   {
     "id": "bote",
@@ -907,7 +907,7 @@
         }
       }
     ],
-    "downloadCount": 13103
+    "downloadCount": 13112
   },
   {
     "id": "CameraPresets",
@@ -981,7 +981,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1198
+    "downloadCount": 1201
   },
   {
     "id": "com.basicGrowl",
@@ -1044,7 +1044,7 @@
         ]
       }
     ],
-    "downloadCount": 115
+    "downloadCount": 116
   },
   {
     "id": "Com.Hellcat92.FuelBurnEnduranceTimer",
@@ -1213,7 +1213,7 @@
         ]
       }
     ],
-    "downloadCount": 968
+    "downloadCount": 976
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1277,7 +1277,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 20403
+    "downloadCount": 20436
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1319,7 +1319,7 @@
         "category": "release"
       }
     ],
-    "downloadCount": 1471
+    "downloadCount": 1472
   },
   {
     "id": "DefensiveAutoTarget",
@@ -1360,7 +1360,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 448
+    "downloadCount": 452
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1490,7 +1490,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 4821
+    "downloadCount": 4825
   },
   {
     "id": "galaxy2_voice",
@@ -1583,6 +1583,15 @@
     "autoUpdateArtifacts": "True",
     "artifacts": [
       {
+        "fileName": "IbisDoorGunToggle-1.7.66.zip",
+        "version": "1.7.66",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle/releases/download/v1.7.66/IbisDoorGunToggle-1.7.66.zip",
+        "hash": "sha256:7d3a539c44dc8b5e49d447d2d9b26516bdfb345026567922280d44b7e1b0d68b"
+      },
+      {
         "fileName": "IbisDoorGunToggle-1.7.56.zip",
         "version": "1.7.56",
         "category": "release",
@@ -1592,7 +1601,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 20
+    "downloadCount": 27
   },
   {
     "id": "jester_voice",
@@ -1725,7 +1734,7 @@
         }
       }
     ],
-    "downloadCount": 11951
+    "downloadCount": 11963
   },
   {
     "id": "klawshout_voice",
@@ -1792,7 +1801,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1499
+    "downloadCount": 1500
   },
   {
     "id": "LaserRocketFix",
@@ -1824,7 +1833,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2867
+    "downloadCount": 2869
   },
   {
     "id": "LiveryManager",
@@ -1939,7 +1948,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 585
+    "downloadCount": 588
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -3409,7 +3418,7 @@
         ]
       }
     ],
-    "downloadCount": 579
+    "downloadCount": 581
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -4096,7 +4105,7 @@
         ]
       }
     ],
-    "downloadCount": 9809
+    "downloadCount": 9813
   },
   {
     "id": "no-autopilot-mod",
@@ -4396,7 +4405,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 9676
+    "downloadCount": 9681
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -4432,8 +4441,8 @@
   },
   {
     "id": "NO-MoarLasers",
-    "displayName": "",
-    "description": "",
+    "displayName": "Moar Lases",
+    "description": "Description: This mod changes the amount of targets that an aircraft can laser designate at once. For example, a cricket can lase 2 targets in the base game. With the basic configuration- Moar Lasers allows you to laser designate 5 targets or more via the config variables.",
     "tags": [
       "Mod",
       "Flavour"
@@ -4762,7 +4771,7 @@
         ]
       }
     ],
-    "downloadCount": 1500
+    "downloadCount": 1501
   },
   {
     "id": "NOLiveryPlus",
@@ -5100,7 +5109,7 @@
         ]
       }
     ],
-    "downloadCount": 4879
+    "downloadCount": 4880
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -5151,7 +5160,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1757
+    "downloadCount": 1758
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -5452,7 +5461,7 @@
         ]
       }
     ],
-    "downloadCount": 8417
+    "downloadCount": 8426
   },
   {
     "id": "RepairProgress",
@@ -5492,7 +5501,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 2748
+    "downloadCount": 2752
   },
   {
     "id": "RuntimeUnityEditor",
@@ -5525,7 +5534,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 120559
+    "downloadCount": 120567
   },
   {
     "id": "skyeye_voice",
@@ -5674,7 +5683,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 1569
+    "downloadCount": 1575
   },
   {
     "id": "TargetCamControl",
@@ -5712,7 +5721,7 @@
         ]
       }
     ],
-    "downloadCount": 40
+    "downloadCount": 41
   },
   {
     "id": "TargetEstimator",
@@ -5744,7 +5753,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 689
+    "downloadCount": 691
   },
   {
     "id": "ThirdFaction",
@@ -5940,7 +5949,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 384
+    "downloadCount": 385
   },
   {
     "id": "Unrestricted-Weapons",
@@ -5981,7 +5990,7 @@
         ]
       }
     ],
-    "downloadCount": 137
+    "downloadCount": 146
   },
   {
     "id": "uuvr",
@@ -6044,7 +6053,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 2639
+    "downloadCount": 2643
   },
   {
     "id": "WeatherController",
@@ -6108,7 +6117,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 5120
+    "downloadCount": 5124
   },
   {
     "id": "YawOnMouse",

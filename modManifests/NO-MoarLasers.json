@@ -1,7 +1,7 @@
 {
   "id": "NO-MoarLasers",
-  "displayName": "",
-  "description": "",
+  "displayName": "Moar Lases",
+  "description": "Description: This mod changes the amount of targets that an aircraft can laser designate at once. For example, a cricket can lase 2 targets in the base game. With the basic configuration- Moar Lasers allows you to laser designate 5 targets or more via the config variables.",
   "tags": [
     "Mod",
     "Flavour"

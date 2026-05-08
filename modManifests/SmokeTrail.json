@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "SmokeTrail.dll",
+      "version": "2.4.2",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.4.2/SmokeTrail.dll",
+      "hash": "sha256:72a64fe7d9bbb401df1eeb77c6bcd1be3427ad960f84c4811e4cd2ae053478ff"
+    },
+    {
+      "fileName": "SmokeTrail.dll",
       "version": "2.2.1",
       "category": "release",
       "type": "plugin",
@@ -46,5 +55,5 @@
       "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
     }
   ],
-  "downloadCount": 482
+  "downloadCount": 483
 }

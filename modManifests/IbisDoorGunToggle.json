@@ -21,12 +21,12 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "IbisDoorGunToggle-1.7.56.zip",
-      "version": "1.7.56",
+      "fileName": "IbisDoorGunToggle-1.7.66.zip",
+      "version": "1.7.66",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle/releases/download/v1.7.56/IbisDoorGunToggle-1.7.56.zip",
+      "downloadUrl": "https://github.com/Rendresen/Ibis-Door-Gun-Toggle/releases/download/v1.7.66/IbisDoorGunToggle-1.7.66.zip"
       "hash": null
     }
   ],

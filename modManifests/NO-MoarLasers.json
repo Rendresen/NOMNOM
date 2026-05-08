@@ -17,7 +17,7 @@
   ],
   "githubOwner": "RudrNaik",
   "githubRepoName": "NO-MoarLasers",
-  "autoUpdateArtifacts": "",
+  "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "fileName": "MoarLases.dll",

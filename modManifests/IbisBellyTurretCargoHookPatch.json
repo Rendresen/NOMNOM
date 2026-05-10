@@ -21,12 +21,12 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "IbisBellyTurretCargoHookPatch-0.1.9.zip",
-      "version": "0.1.9",
+      "fileName": "IbisBellyTurretCargoHookPatch-0.1.10.zip",
+      "version": "0.1.10",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.1.9/IbisBellyTurretCargoHookPatch-0.1.9.zip",
+      "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.1.10/IbisBellyTurretCargoHookPatch-0.1.10.zip",
       "hash": "",
       "dependencies": [
         {

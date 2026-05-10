@@ -1,0 +1,39 @@
+{
+  "id": "IbisBellyTurretCargoHookPatch",
+  "displayName": "Ibis Belly Turret Cargo Hook Patch",
+  "description": "QoL-compatible UH-90 Ibis patch that keeps QoL's belly turret slot, removes CargoHook from that slot, and adds a separate cargo-hook-only slot near the original cargo hook position.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch"
+    }
+  ],
+  "authors": [
+    "Rendresen"
+  ],
+  "githubOwner": "Rendresen",
+  "githubRepoName": "Ibis-Belly-Turret-Cargo-Hook-Patch",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "IbisBellyTurretCargoHookPatch-0.1.9.zip",
+      "version": "0.1.9",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/Ibis-Belly-Turret-Cargo-Hook-Patch/releases/download/v0.1.9/IbisBellyTurretCargoHookPatch-0.1.9.zip",
+      "hash": "",
+      "dependencies": [
+        {
+          "id": "QoL",
+          "version": "1.7.1.0"
+        }
+      ]
+    }
+  ]
+}

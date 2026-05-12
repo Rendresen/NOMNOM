@@ -1,0 +1,33 @@
+{
+  "id": "ChicaneWingDelete",
+  "displayName": "Chicane Wing Delete",
+  "description": "Removes the Chicane's external wings when no wing payload is equipped, while preserving QoL/vanilla RCS behavior.",
+  "tags": [
+    "mod",
+    "Aircraft",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Rendresen/ChicaneWingDelete"
+    }
+  ],
+  "authors": [
+    "Rendresen"
+  ],
+  "githubOwner": "Rendresen",
+  "githubRepoName": "ChicaneWingDelete",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "ChicaneWingDelete-0.9.3.zip",
+      "version": "0.9.3",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/ChicaneWingDelete/releases/download/v0.9.3/ChicaneWingDelete-0.9.3.zip",
+      "hash": null
+    }
+  ]
+}

@@ -21,12 +21,12 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
-      "fileName": "ChicaneWingDelete-0.9.3.zip",
-      "version": "0.9.3",
+      "fileName": "ChicaneWingDelete-1.2.4.zip",
+      "version": "1.2.4",
       "category": "release",
       "type": "plugin",
       "gameVersion": "0.33",
-      "downloadUrl": "https://github.com/Rendresen/ChicaneWingDelete/releases/download/v0.9.3/ChicaneWingDelete-0.9.3.zip",
+      "downloadUrl": "https://github.com/Rendresen/ChicaneWingDelete/releases/download/v1.2.4/ChicaneWingDelete-1.2.4.zip",
       "hash": null
     }
   ]

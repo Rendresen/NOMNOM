@@ -1,0 +1,43 @@
+{
+  "id": "F16VaporTuner",
+  "displayName": "F-16 Vapor Tuner",
+  "description": "Values-only BepInEx companion plugin for Aryx’s F-16M / King Viper. Tunes wing, LERX, wingtip, and transonic vapor effects for smoother AoA vapor onset, better wingtip vortex placement/persistence, and improved transonic cone timing/density.",
+  "tags": [
+    "QoL",
+    "Aircraft",
+    "Visual"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/rendresen/F16VaporTuner"
+    }
+  ],
+  "authors": [
+    "rendresen"
+  ],
+  "githubOwner": "rendresen",
+  "githubRepoName": "F16VaporTuner",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "F16VaporTuner-1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/rendresen/F16VaporTuner/releases/download/v1.0.0/F16VaporTuner-1.0.0.zip",
+      "hash": "sha256:a39332086e47c64c294805f2847d285e0149273477268e0ed115ee8d07bc3f13",
+      "dependencies": [
+        {
+          "id": "aryx.f16m",
+          "version": "1.1.1"
+        },
+        {
+          "id": "com.nikkorap.blueprinter",
+          "version": "1.8.17"
+        }
+      ]
+    }
+  ]
+}

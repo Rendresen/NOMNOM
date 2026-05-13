@@ -2,7 +2,12 @@
   "id": "blueprinter.ternion",
   "displayName": "FS-3 Ternion",
   "description": "A heavy BDF tri-surface twin engine multirole fighter with high payload capacity and extreme kinematic performace. Features custom audio, numerous weapon pylons, a refined fly by wire, and custom music by the creators of the Nuclear Option Soundtrack.",
-  "tags": ["mod", "aircraft", "blueprinter", "p2082"],
+  "tags": [
+    "mod",
+    "aircraft",
+    "blueprinter",
+    "p2082"
+  ],
   "urls": [
     {
       "name": "info",

@@ -1,0 +1,49 @@
+{
+  "id": "blueprinter.ternion",
+  "displayName": "FS-3 Ternion",
+  "description": "A heavy BDF tri-surface twin engine multirole fighter with high payload capacity and extreme kinematic performace. Features custom audio, numerous weapon pylons, a refined fly by wire, and custom music by the creators of the Nuclear Option Soundtrack.",
+  "tags": ["mod", "aircraft", "blueprinter", "p2082"],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/offiry0/trisurface_public/blob/main/README.md"
+    },
+    {
+      "name": "2082 discord",
+      "url": "https://discord.gg/qqMwyr2qxR"
+    }
+  ],
+  "authors": [
+    "nikkorap",
+    "offiry",
+    "errorbyte",
+    "javiairplane",
+    "aaa battery",
+    "drunk",
+    "vintage",
+    "jeremy sahl",
+    "justin sahl",
+    "raikanhai",
+    "olivefox",
+    "the 2082 science team"
+  ],
+  "githubOwner": "offiry0",
+  "githubRepoName": "trisurface_public",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "FS-3.Ternion_1.0.0.nobp",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/offiry0/trisurface_public/releases/download/1.0.0/FS-3.Ternion_1.0.0.nobp",
+      "hash": "sha256:86814fd7ec29893d674039e271961119e7642c436b81e795b18971ead311c6f2",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.19"
+      }
+    }
+  ],
+  "downloadCount": 0
+}

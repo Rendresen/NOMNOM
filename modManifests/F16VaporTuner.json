@@ -35,9 +35,10 @@
         },
         {
           "id": "com.nikkorap.blueprinter",
-          "version": "1.8.17"
+          "version": "1.8.19"
         }
       ]
     }
-  ]
+  ],
+  "downloadCount": 38
 }

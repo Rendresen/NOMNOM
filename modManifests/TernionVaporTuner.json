@@ -1,0 +1,41 @@
+{
+  "id": "TernionVaporTuner",
+  "displayName": "Ternion Vapor Tuner",
+  "description": "Companion BepInEx plugin that tunes the FS-3 Ternion vapor effects without modifying the original Ternion asset.",
+  "tags": [
+    "mod",
+    "plugin",
+    "aircraft",
+    "visual",
+    "vapor"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/rendresen/TernionVaporTuner"
+    }
+  ],
+  "authors": [
+    "rendresen"
+  ],
+  "githubOwner": "rendresen",
+  "githubRepoName": "TernionVaporTuner",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "TernionVaporTuner-1.1.5.zip",
+      "version": "1.1.5",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/rendresen/TernionVaporTuner/releases/download/v1.1.5/TernionVaporTuner-1.1.5.zip",
+      "hash": "sha256:4ACC49E2B9366C86FB15410EB21DE3AC458C57263FA5F100BF85A1955B71349D",
+      "dependencies": [
+        {
+          "id": "blueprinter.ternion",
+          "version": "1.0.0"
+        }
+      ]
+    }
+  ]
+}

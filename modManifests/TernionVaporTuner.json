@@ -23,6 +23,36 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "TernionVaporTuner-1.1.7.zip",
+      "version": "1.1.7",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/TernionVaporTuner/releases/download/v1.1.7/TernionVaporTuner-1.1.7.zip",
+      "hash": "sha256:b5d201a1e418aaf98572f0b85881f9cdf0b967b4221b03e36e57a112cc9bba6f",
+      "dependencies": [
+        {
+          "id": "blueprinter.ternion",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "fileName": "TernionVaporTuner-1.1.6.zip",
+      "version": "1.1.6",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Rendresen/TernionVaporTuner/releases/download/v1.1.6/TernionVaporTuner-1.1.6.zip",
+      "hash": "sha256:ba1d13df01f986f4b7e188caf2c5b2a516cb96841ccac0b266e1046cf79dd0cd",
+      "dependencies": [
+        {
+          "id": "blueprinter.ternion",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
       "fileName": "TernionVaporTuner-1.1.5.zip",
       "version": "1.1.5",
       "category": "release",
@@ -38,5 +68,5 @@
       ]
     }
   ],
-  "downloadCount": 34
+  "downloadCount": 291
 }
